@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/WriteAsArchiveGenerator.Cli/WriteAsArchiveGenerator.Cli.csproj" />
+    <Project Path="src/WriteAsArchiveGenerator.Core/WriteAsArchiveGenerator.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WriteAsArchiveGenerator.Core.Tests/WriteAsArchiveGenerator.Core.Tests.csproj" />
+  </Folder>
+</Solution>

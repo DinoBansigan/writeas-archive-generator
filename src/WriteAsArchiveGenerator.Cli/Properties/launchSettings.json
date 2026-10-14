@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WriteAsArchiveGenerator.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
